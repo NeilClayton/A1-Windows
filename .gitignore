@@ -1,0 +1,5 @@
+*.iml
+*.xml
+.sass-cache/08bceee6ccffe1a4fadc6febf47a9512512c3aa3/styles.scssc
+*.scssc
+*.scss
